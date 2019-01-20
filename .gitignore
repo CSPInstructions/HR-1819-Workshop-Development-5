@@ -1,0 +1,7 @@
+.vscode/
+bin/
+Migrations/
+node_modules/
+obj/
+.DS_Store
+Final/LeegReactTemplate.csproj.user
