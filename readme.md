@@ -22,7 +22,7 @@ The zip file named workshop is used during the workshop. It contains a piece of 
 
 ### Final Solution
 
-A folder with final solution will be uploaded to the repository. Comments will be provided in the code to explain it's function. Important methods and functions will be commented using <summary>. The files that are important to look at are:
+A folder with final solution will be uploaded to the repository. Comments will be provided in the code to explain it's function. Important methods and functions will be fully commented. The files that are important to look at are:
 * Startup.cs
 * Models / Models.cs
 * ExtensionsMethods / Pagination.cs
